@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💼 Portfólio Front-End
 
-## Getting Started
+Bem-vindo ao meu portfólio! 🚀
+Aqui estão os **projetos mais recentes que desenvolvi para praticar e demonstrar minhas habilidades**.
+O objetivo é mostrar minha evolução no desenvolvimento de interfaces modernas, responsivas e interativas, utilizando **HTML, CSS, JavaScript, TypeScript, React NextJS, NestJS e Tailwind CSS**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tecnologias e ferramentas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📂 Projetos em destaque
 
-## Learn More
+### 🔥 **Projetos Interativos com APIs**
 
-To learn more about Next.js, take a look at the following resources:
+- **Rock, Paper, Scissors — Next.js | TypeScript**: Aplicação focada em modelagem de domínio e clareza de estado, utilizando union types, funções puras e renderização condicional baseada em estados reais da aplicação. Projeto voltado à arquitetura **Front-End**, previsibilidade de UI e boas práticas com **TypeScript**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Sistema de Autenticação — Next.js | TypeScript | Tailwind CSS**: Implementação de um fluxo completo de autenticação (login, registro, sessão e logout), com controle explícito de estado e persistência de sessão. Ênfase em UX previsível, separação de responsabilidades, validações de formulário e gestão de telas protegidas.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Pokédex — Next.js | TypeScript | Tailwind CSS**: Aplicação **Front-End** que consome a PokeAPI, com busca por nome ou número e navegação dinâmica entre Pokémons. Foco em arquitetura moderna, componentização reutilizável, estado assíncrono tipado e evolução de um projeto legado **(HTML/CSS/JS)** para **Next.js**.
 
-## Deploy on Vercel
+### 🎨 **Landing Pages e UI**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Páginas responsivas criadas com **HTML, CSS, JS, React, NextJS e Tailwind CSS**.
+- Foco em layout limpo, tipografia e detalhes visuais modernos.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### ⚡ **Aplicações em JavaScript**
+
+- Projetos para praticar **DOM, eventos, fetch e lógica assíncrona**.
+- Implementação de grids dinâmicos, cards interativos e paginação.
+
+### ⚛️ **Projetos com ReactJS/NextJS**
+
+- Exercícios e aplicações focados em **componentes, props, estados e hooks**.
+- Consolidação de conceitos avançados e organização de código.
+
+_(Novos projetos são adicionados regularmente, mostrando evolução contínua e aprimoramento de fundamentos!)_
+
+---
+
+**Explore cada projeto para ver como desenvolvo com atenção a detalhes, performance e experiência do usuário.**
