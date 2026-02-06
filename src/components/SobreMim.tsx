@@ -25,7 +25,7 @@ const SobreMim = () => {
         </div>
         <div className="shrink-0">
           <Image
-            src="/img/foto.png"
+            src="/img/Foto.png"
             alt="Felipe de Lima Passarelli"
             width={1000}
             height={1000}
