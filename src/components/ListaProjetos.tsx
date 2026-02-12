@@ -25,6 +25,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/JokenpoApp"
         />
         <Projeto
+          title="SliderCar Animation"
+          description="Interface moderna de uma vitrine de carros luxuosos."
+          linkView="https://slider-car-animation.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/SliderCar-Animation"
+        />
+        <Projeto
           title="Spotify App"
           description="Clone do site do Spotify, com NextJS."
           linkView="https://spotify-app-tau-lemon.vercel.app"
