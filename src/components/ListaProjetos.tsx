@@ -31,15 +31,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/SliderCar-Animation"
         />
         <Projeto
-<<<<<<< HEAD
           title="Travel Slider Experience"
           description="Interface moderna de um carrosel de imagens animadas."
           linkView="https://carrossel-image-animation.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Carrossel_Image_Animation"
         />
         <Projeto
-=======
->>>>>>> 5e7d0727a11c88828c9cf635134b23cf9d3ea616
           title="Cafe LandingPage"
           description="Interface moderna de uma landing page focada em cafeteria."
           linkView="https://cafeteria-lyart-seven.vercel.app"
