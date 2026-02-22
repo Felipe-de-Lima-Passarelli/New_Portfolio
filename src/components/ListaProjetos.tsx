@@ -31,6 +31,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/SliderCar-Animation"
         />
         <Projeto
+          title="Microsoft 365"
+          description="Réplica do site da Microsoft 365."
+          linkView="https://microsoft-clone-tan-zeta.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Microsoft-Clone"
+        />
+        <Projeto
           title="Travel Slider Experience"
           description="Interface moderna de um carrosel de imagens animadas."
           linkView="https://carrossel-image-animation.vercel.app"
