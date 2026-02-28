@@ -37,6 +37,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Microsoft-Clone"
         />
         <Projeto
+          title="Shoes Website"
+          description="Interface moderna de uma landing page de tênis."
+          linkView="https://shoes-website-nu.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Shoes_Website"
+        />
+        <Projeto
           title="Buscador de Receita"
           description="Interface moderna de um buscador de receitas com auxílio de API externa."
           linkView="https://buscador-de-receitas-fawn.vercel.app"
