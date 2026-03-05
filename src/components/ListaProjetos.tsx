@@ -61,6 +61,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Cafeteria"
         />
         <Projeto
+          title="DevClub Store"
+          description="Interface moderna de uma landing page focada em produtos de tecnologia."
+          linkView="https://devclub-store-hazel.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/devclub_store"
+        />
+        <Projeto
           title="Spotify App"
           description="Clone do site do Spotify, com NextJS."
           linkView="https://spotify-app-tau-lemon.vercel.app"
