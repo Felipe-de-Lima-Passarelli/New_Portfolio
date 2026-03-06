@@ -31,6 +31,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/SliderCar-Animation"
         />
         <Projeto
+          title="Real Estate"
+          description="Interface moderna de uma landing page da empresa fictícia Real Estate e seus serviços."
+          linkView="https://real-estate-self-seven.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Real_Estate"
+        />
+        <Projeto
           title="Microsoft 365"
           description="Réplica do site da Microsoft 365."
           linkView="https://microsoft-clone-tan-zeta.vercel.app"
