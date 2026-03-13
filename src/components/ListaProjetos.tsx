@@ -37,6 +37,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Real_Estate"
         />
         <Projeto
+          title="Agency.ia - GreatStacks"
+          description="Interface moderna de uma landing page da empresa fictícia Agency.ia e seus serviços."
+          linkView="https://agency-ia-mocha.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Agency_ia"
+        />
+        <Projeto
           title="Microsoft 365"
           description="Réplica do site da Microsoft 365."
           linkView="https://microsoft-clone-tan-zeta.vercel.app"
