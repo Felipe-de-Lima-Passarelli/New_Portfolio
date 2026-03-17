@@ -79,6 +79,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/devclub_store"
         />
         <Projeto
+          title="Coffee Landing Page"
+          description="Landing Page moderno de uma cafeteria."
+          linkView="https://coffee-landing-page-self.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Coffee_Landing_Page"
+        />
+        <Projeto
           title="Spotify App"
           description="Clone do site do Spotify, com NextJS."
           linkView="https://spotify-app-tau-lemon.vercel.app"
@@ -143,48 +149,6 @@ const ListaProjetos = () => {
           description="Interface moderna com paginação de raças que lista todas cartas do gamecard Yu-Gi-Oh."
           linkView="https://felipe-de-lima-passarelli.github.io/YuGiOh/"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/YuGiOh"
-        />
-        <Projeto
-          title="Lista de Filmes"
-          description="Interface moderna com lista de filmes de acordo com o gênero."
-          linkView="https://felipe-de-lima-passarelli.github.io/Filmes/"
-          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Filmes"
-        />
-        <Projeto
-          title="Modelo Anna Bella"
-          description="Interface simples de uma modelo fictícia."
-          linkView="https://felipe-de-lima-passarelli.github.io/Anna_bella/"
-          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Anna_bella"
-        />
-        <Projeto
-          title="Finans"
-          description="Interface moderna usando o Finans como exemplo."
-          linkView="https://felipe-de-lima-passarelli.github.io/Finans/"
-          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Finans"
-        />
-        <Projeto
-          title="Medium"
-          description="Interface moderna usando o Medium como exemplo."
-          linkView="https://felipe-de-lima-passarelli.github.io/Medium/"
-          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Medium"
-        />
-        <Projeto
-          title="Museu Nacional"
-          description="Interface moderna de um site demonstrando o museu do Brasil."
-          linkView="https://felipe-de-lima-passarelli.github.io/Museu_Nacional/"
-          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Museu_Nacional"
-        />
-        <Projeto
-          title="Nova Era Digital"
-          description="Interface moderna de um exemplar de um site de empresa."
-          linkView="https://felipe-de-lima-passarelli.github.io/Nova_Era_Digital/"
-          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Nova_Era_Digital"
-        />
-        <Projeto
-          title="Zoom"
-          description="Interface moderna usando o Zoom como exemplo."
-          linkView="https://felipe-de-lima-passarelli.github.io/Zoom/"
-          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Zoom"
         />
       </div>
     </section>
