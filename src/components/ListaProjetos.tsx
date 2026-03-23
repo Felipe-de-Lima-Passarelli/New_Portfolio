@@ -79,6 +79,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/devclub_store"
         />
         <Projeto
+          title="Playstation Product Landing Page"
+          description="Interface moderna de uma landing page dos produtos Sony."
+          linkView="https://playstation-product.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Playstation_Product"
+        />
+        <Projeto
           title="Coffee Landing Page"
           description="Landing Page moderno de uma cafeteria."
           linkView="https://coffee-landing-page-self.vercel.app"
