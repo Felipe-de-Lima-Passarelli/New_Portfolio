@@ -7,12 +7,6 @@ const ListaProjetos = () => {
       <h2 className="text-[#38BDF8] mb-4 text-3xl font-bold">Projetos</h2>
       <div className="grid grid-cols-[repeat(auto-fit,minmax(17.5rem,1fr))] gap-6 mt-6">
         <Projeto
-          title="AirBnb"
-          description="Interface moderna usando o AirBnb como exemplo."
-          linkView="https://airbnb-wheat-five.vercel.app"
-          linkCode="https://github.com/Felipe-de-Lima-Passarelli/AirBnb"
-        />
-        <Projeto
           title="Weather App"
           description="Interface moderna de um site que verifica o clima."
           linkView="https://weather-app-one-virid-81.vercel.app"
@@ -25,6 +19,12 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/JokenpoApp"
         />
         <Projeto
+          title="Translate Code"
+          description="Interface moderna de um tradutor estilo Google Translate"
+          linkView="https://translate-code.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/TranslateCode"
+        />
+        <Projeto
           title="SliderCar Animation"
           description="Interface moderna de uma vitrine de carros luxuosos."
           linkView="https://slider-car-animation.vercel.app"
@@ -35,6 +35,12 @@ const ListaProjetos = () => {
           description="Interface moderna de uma landing page da empresa fictícia Real Estate e seus serviços."
           linkView="https://real-estate-self-seven.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Real_Estate"
+        />
+        <Projeto
+          title="AirBnb"
+          description="Interface moderna usando o AirBnb como exemplo."
+          linkView="https://airbnb-wheat-five.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/AirBnb"
         />
         <Projeto
           title="Agency.ia - GreatStacks"
