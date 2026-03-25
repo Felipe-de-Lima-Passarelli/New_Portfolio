@@ -11,7 +11,7 @@ const Habilidades = () => {
         <li>✅ Front-End (Foco Principal)</li>
         <li>✅ HTML semântico e acessibilidade</li>
         <li>✅ CSS moderno (Flexbox, Grid, responsividade)</li>
-        <li>✅JavaScript (ES6+) e TypeScript</li>
+        <li>✅ JavaScript (ES6+) e TypeScript</li>
         <li>✅ React (Hooks, estado, componentização)</li>
         <li>✅ Next.js</li>
         <li>✅ Consumo de APIs REST</li>
