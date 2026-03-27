@@ -21,6 +21,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/JokenpoApp"
         />
         <Projeto
+          title="Busfil GitHub"
+          description="Aplicação que permite buscar usuários do GitHub e visualizar suas principais informações, além dos repositórios mais recentemente atualizados."
+          image="Busfil"
+          linkView="https://busfil-git-hub.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Busfil_GitHub"
+        />
+        <Projeto
           title="Translate Code"
           description="Interface moderna de um tradutor estilo Google Translate"
           image="TranslateCode"
