@@ -63,6 +63,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Agency_ia"
         />
         <Projeto
+          title="League Characters"
+          description="Interface moderna de uma página para pesquisar os personagens do jogo League of Legends."
+          image="Agency"
+          linkView="https://league-characters.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/League_Characters"
+        />
+        <Projeto
           title="Microsoft 365"
           description="Réplica do site da Microsoft 365."
           image="Microsoft"
