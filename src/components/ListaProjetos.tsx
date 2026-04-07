@@ -65,7 +65,7 @@ const ListaProjetos = () => {
         <Projeto
           title="League Characters"
           description="Interface moderna de uma página para pesquisar os personagens do jogo League of Legends."
-          image="Agency"
+          image="League"
           linkView="https://league-characters.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/League_Characters"
         />
