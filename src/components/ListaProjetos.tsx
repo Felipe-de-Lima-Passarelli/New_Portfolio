@@ -35,6 +35,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/TranslateCode"
         />
         <Projeto
+          title="Job Listings Filter"
+          description="Interface moderna de um site de vagas de emprego com filtro"
+          image="JobListingsFilter"
+          linkView="https://job-listings-filter-teal.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/JobListingsFilter"
+        />
+        <Projeto
           title="SliderCar Animation"
           description="Interface moderna de uma vitrine de carros luxuosos."
           image="SlideCar"
