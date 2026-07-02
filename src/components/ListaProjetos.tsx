@@ -8,203 +8,203 @@ const ListaProjetos = () => {
       <div className="grid grid-cols-[repeat(auto-fit,minmax(17.5rem,1fr))] gap-6 mt-6">
         <Projeto
           title="Weather App"
-          description="Interface moderna de um site que verifica o clima."
+          description="Aplicação de clima com busca por cidade, consumo de API e exibição organizada das condições meteorológicas."
           image="Weather"
           linkView="https://weather-app-one-virid-81.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/weatherApp"
         />
         <Projeto
-          title="JopenkoApp"
-          description="Interface moderna do jogo famoso pedra, papel, tesoura."
+          title="Jokenpo App"
+          description="Jogo de pedra, papel e tesoura com interação dinâmica, lógica de escolhas e feedback visual para o usuário."
           image="Jokenpo"
           linkView="https://jokenpo-app-three.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/JokenpoApp"
         />
         <Projeto
           title="Busfil GitHub"
-          description="Aplicação que permite buscar usuários do GitHub e visualizar suas principais informações, além dos repositórios mais recentemente atualizados."
+          description="Aplicação para buscar usuários do GitHub, visualizar informações do perfil e listar repositórios atualizados recentemente."
           image="Busfil"
           linkView="https://busfil-git-hub.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Busfil_GitHub"
         />
         <Projeto
           title="Translate Code"
-          description="Interface moderna de um tradutor estilo Google Translate"
+          description="Interface de tradução inspirada no Google Translate, com foco em layout responsivo, organização visual e experiência de uso."
           image="TranslateCode"
           linkView="https://translate-code.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/TranslateCode"
         />
         <Projeto
           title="Job Listings Filter"
-          description="Interface moderna de um site de vagas de emprego com filtro"
+          description="Página de vagas com filtros dinâmicos por tecnologias, simulando uma experiência real de busca e seleção de oportunidades."
           image="JobListingsFilter"
           linkView="https://job-listings-filter-teal.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/JobListingsFilter"
         />
         <Projeto
-          title="SliderCar Animation"
-          description="Interface moderna de uma vitrine de carros luxuosos."
+          title="Luxury Car Slider"
+          description="Vitrine animada de carros premium, explorando transições, composição visual e efeitos com foco em experiência interativa."
           image="SlideCar"
           linkView="https://slider-car-animation.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/SliderCar-Animation"
         />
         <Projeto
-          title="Real Estate"
-          description="Interface moderna de uma landing page da empresa fictícia Real Estate e seus serviços."
+          title="Real Estate Landing Page"
+          description="Landing page para uma empresa imobiliária fictícia, destacando serviços, imóveis e uma apresentação visual profissional."
           image="RealState"
           linkView="https://real-estate-self-seven.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Real_Estate"
         />
         <Projeto
-          title="AirBnb"
-          description="Interface moderna usando o AirBnb como exemplo."
+          title="Airbnb Clone"
+          description="Recriação visual inspirada no Airbnb, praticando responsividade, componentização e construção de interfaces modernas."
           image="AirbnbPage"
           linkView="https://airbnb-wheat-five.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/AirBnb"
         />
         <Projeto
-          title="Agency.ia - GreatStacks"
-          description="Interface moderna de uma landing page da empresa fictícia Agency.ia e seus serviços."
+          title="Agency.ia Landing Page"
+          description="Landing page para uma agência fictícia de IA, com foco em apresentação de serviços, layout moderno e comunicação visual."
           image="Agency"
           linkView="https://agency-ia-mocha.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Agency_ia"
         />
         <Projeto
-          title="League Characters"
-          description="Interface moderna de uma página para pesquisar os personagens do jogo League of Legends."
+          title="League Characters Explorer"
+          description="Página de busca de personagens de League of Legends, com pesquisa dinâmica e exibição organizada das informações."
           image="League"
           linkView="https://league-characters.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/League_Characters"
         />
         <Projeto
-          title="Microsoft 365"
-          description="Réplica do site da Microsoft 365."
+          title="Microsoft 365 Clone"
+          description="Recriação da interface do Microsoft 365, praticando fidelidade visual, responsividade e estruturação de seções."
           image="Microsoft"
           linkView="https://microsoft-clone-tan-zeta.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Microsoft-Clone"
         />
         <Projeto
-          title="Shoes Website"
-          description="Interface moderna de uma landing page de tênis."
+          title="Sneakers Landing Page"
+          description="Landing page de tênis com foco em apresentação de produto, layout responsivo e identidade visual moderna."
           image="ShoesWebsite"
           linkView="https://shoes-website-nu.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Shoes_Website"
         />
         <Projeto
-          title="Buscador de Receita"
-          description="Interface moderna de um buscador de receitas com auxílio de API externa."
+          title="Buscador de Receitas"
+          description="Aplicação de receitas com consumo de API externa, busca por pratos e exibição organizada de informações culinárias."
           image="Buscador_Receita"
           linkView="https://buscador-de-receitas-fawn.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Buscador_de_Receitas"
         />
         <Projeto
-          title="Travel Slider Experience"
-          description="Interface moderna de um carrosel de imagens animadas."
+          title="Travel Image Slider"
+          description="Carrossel animado de imagens de viagem, explorando transições visuais, composição de layout e interação com o usuário."
           image="Carrosell"
           linkView="https://carrossel-image-animation.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Carrossel_Image_Animation"
         />
         <Projeto
-          title="Cafe LandingPage"
-          description="Interface moderna de uma landing page focada em cafeteria."
+          title="Café Landing Page"
+          description="Landing page para cafeteria, com foco em apresentação de marca, produtos e uma experiência visual acolhedora."
           image="Cafe"
           linkView="https://cafeteria-lyart-seven.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Cafeteria"
         />
         <Projeto
           title="DevClub Store"
-          description="Interface moderna de uma landing page focada em produtos de tecnologia."
+          description="Landing page de produtos de tecnologia, praticando organização de seções, destaque visual e construção responsiva."
           image="DevClubStore"
           linkView="https://devclub-store-hazel.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/devclub_store"
         />
         <Projeto
-          title="Playstation Product Landing Page"
-          description="Interface moderna de uma landing page dos produtos Sony."
+          title="PlayStation Product Page"
+          description="Página de produto inspirada na marca PlayStation, com foco em apresentação visual, responsividade e destaque de produto."
           image="Playstation"
           linkView="https://playstation-product.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Playstation_Product"
         />
         <Projeto
           title="Coffee Landing Page"
-          description="Landing Page moderno de uma cafeteria."
+          description="Landing page moderna para cafeteria, explorando composição visual, seções comerciais e design responsivo."
           image="Coffee"
           linkView="https://coffee-landing-page-self.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Coffee_Landing_Page"
         />
         <Projeto
-          title="Spotify App"
-          description="Clone do site do Spotify, com NextJS."
+          title="Spotify Clone"
+          description="Clone visual do Spotify desenvolvido com Next.js, praticando componentização, organização de layout e interface responsiva."
           image="Spotify"
           linkView="https://spotify-app-tau-lemon.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/SpotifyApp"
         />
         <Projeto
-          title="Todo List"
-          description="Interface moderna de um Todo List."
+          title="Todo List App"
+          description="Aplicação de lista de tarefas com foco em manipulação de estado, interação do usuário e organização de atividades."
           image="TodoList"
           linkView="https://todo-list-seven-silk-67.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/TodoList"
         />
         <Projeto
-          title="Fruit Slider"
-          description="Projeto desenvolvido com Next.js/Tailwind CSS e animações puras com CSS."
+          title="Fruit Slider Animation"
+          description="Landing page animada desenvolvida com Next.js, TailwindCSS e animações em CSS para criar uma experiência visual dinâmica."
           image="FruitAnimation"
           linkView="https://landing-page-animation-beta.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/LandingPage_Animation"
         />
         <Projeto
           title="Sneakers Store"
-          description="Criação de uma página de e-commerce aplicando o conceito de mobile first."
+          description="Página de e-commerce desenvolvida com abordagem mobile first, focada em apresentação de produto e experiência responsiva."
           image="StorageItem"
           linkView="https://storage-item-page.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/StorageItemPage"
         />
         <Projeto
           title="Countries Explorer"
-          description="Aplicação com a listagem de países com Next.js e TypeScript."
+          description="Aplicação para explorar países, utilizando Next.js e TypeScript para exibir informações de forma organizada e responsiva."
           image="Countries"
           linkView="https://country-app-taupe-one.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/CountryApp"
         />
         <Projeto
-          title="Digitalbank LadingPage"
-          description="Criação de uma interface moderna para um banco fictício chamado Digitalbank."
+          title="Digital Bank Landing Page"
+          description="Landing page para um banco digital fictício, com foco em layout moderno, apresentação de serviços e design responsivo."
           image="DigitalBank"
           linkView="https://digitalbank-landing-page-mu.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Digitalbank-LandingPage"
         />
         <Projeto
           title="Login App"
-          description="Interface moderna de um site que simula um site de cadastro/login utilizando o localStorage."
+          description="Aplicação de cadastro e login utilizando localStorage, praticando manipulação de dados, validação e persistência no navegador."
           image="UserLogin"
           linkView="https://user-login-red.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/userLogin"
         />
         <Projeto
-          title="ExtensionList App"
-          description="Interface moderna de um site que lista extensões ativas e inativas."
+          title="Extension List App"
+          description="Aplicação que lista extensões ativas e inativas, com foco em componentização, estados visuais e organização de dados."
           image="ExtensionsList"
           linkView="https://extension-list-app.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/ExtensionList-App"
         />
         <Projeto
-          title="Pokedex"
-          description="Interface moderna de uma Pokedex interativa feita com NextJS."
+          title="Pokédex App"
+          description="Pokédex interativa desenvolvida com Next.js, exibindo personagens de forma organizada em uma interface responsiva."
           image="Pokedex"
           linkView="https://pokedex-app-nine-tau.vercel.app"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/PokedexApp"
         />
         <Projeto
           title="Rick and Morty Characters"
-          description="Interface moderna com paginação que lista todos personagens da série Rick and Morty."
+          description="Aplicação com paginação para listar personagens de Rick and Morty, praticando consumo de dados e renderização dinâmica."
           image="RickAndMorty"
           linkView="https://felipe-de-lima-passarelli.github.io/Rick_and_Morty/"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Rick_and_Morty"
         />
         <Projeto
           title="Yu-Gi-Oh Cards"
-          description="Interface moderna com paginação de raças que lista todas cartas do gamecard Yu-Gi-Oh."
+          description="Aplicação com paginação e filtros por raça para listar cartas de Yu-Gi-Oh, praticando organização e exibição de dados."
           image="YuGiOh"
           linkView="https://felipe-de-lima-passarelli.github.io/YuGiOh/"
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/YuGiOh"
