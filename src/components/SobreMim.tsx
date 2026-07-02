@@ -8,25 +8,28 @@ const SobreMim = () => {
       <div className="flex items-start gap-5 flex-wrap">
         <div className="flex-1">
           <p className="text-base mb-4 text-[#CBD5E1]">
-            Sou Desenvolvedor Front-End com foco na construção de interfaces
-            modernas, acessíveis e bem estruturadas, priorizando organização de
-            código, usabilidade e boas práticas.
+            Sou desenvolvedor Front-End em evolução, com foco na construção de
+            interfaces modernas, acessíveis, responsivas e bem estruturadas.
+            Busco transformar ideias em experiências digitais organizadas,
+            funcionais e agradáveis para o usuário.
           </p>
           <p className="text-base mb-4 text-[#CBD5E1]">
-            Atuo principalmente com React e Next.js, desenvolvendo aplicações
-            front-end que consomem APIs externas, utilizam componentização
-            eficiente e possuem preocupação real com manutenção e performance.
+            Atualmente estudo e desenvolvo projetos utilizando React, Next.js,
+            TypeScript e TailwindCSS, aplicando conceitos como componentização,
+            consumo de APIs, organização de código, responsividade e boas
+            práticas de desenvolvimento.
           </p>
           <p className="text-base mb-4 text-[#CBD5E1]">
-            Tenho background em automação e dados com Python, o que fortaleceu
-            minha lógica e visão analítica, sendo hoje um conhecimento de apoio
-            ao desenvolvimento front-end.
+            Também tenho conhecimentos em automação e análise de dados com
+            Python, o que contribuiu para fortalecer minha lógica de
+            programação, resolução de problemas e visão analítica durante o
+            desenvolvimento de aplicações.
           </p>
         </div>
         <div className="shrink-0">
           <Image
             src="/img/Foto.png"
-            alt="Felipe de Lima Passarelli"
+            alt="Foto de Felipe de Lima Passarelli"
             width={1000}
             height={1000}
             className="w-40 h-40 rounded-full border-4 border-sky-400 object-cover shadow-[0_6px_12px_rgba(0,0,0,0.4)]"
