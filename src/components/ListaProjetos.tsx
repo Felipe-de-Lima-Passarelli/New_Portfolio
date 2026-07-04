@@ -28,6 +28,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/CountryApp"
         />
         <Projeto
+          title="Currency Converter"
+          description="Aplicação para conversão de moedas em tempo real, utilizando Next.js, TypeScript e a API Frankfurter para consultar cotações atualizadas de forma rápida e responsiva."
+          image="Currency"
+          linkView="https://currency-converter-five-gamma-40.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Currency_Converter"
+        />
+        <Projeto
           title="Buscador de Receitas"
           description="Aplicação de receitas com consumo de API externa, busca por pratos e exibição organizada de informações culinárias."
           image="Buscador_Receita"
