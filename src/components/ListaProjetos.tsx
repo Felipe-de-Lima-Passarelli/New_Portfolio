@@ -21,6 +21,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/JobListingsFilter"
         />
         <Projeto
+          title="Multi Step Form"
+          description="Aplicação de formulário multi-etapas desenvolvida com Next.js e TypeScript, permitindo seleção de planos, add-ons e cálculo dinâmico da assinatura em uma interface moderna e responsiva."
+          image="Multistepform"
+          linkView="https://multi-step-form-psi-coral.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Multi_step_form"
+        />
+        <Projeto
           title="Countries Explorer"
           description="Aplicação para explorar países, utilizando Next.js e TypeScript para exibir informações de forma organizada e responsiva."
           image="Countries"
