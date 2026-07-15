@@ -56,6 +56,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/weatherApp"
         />
         <Projeto
+          title="Dots App"
+          description="Aplicação interativa com criação de pontos na tela, utilizando React, TypeScript e TailwindCSS para praticar controle de estados, eventos de clique, renderização dinâmica e lógica de desfazer/refazer."
+          image="Dots"
+          linkView="https://dots-page.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Dots_Page"
+        />
+        <Projeto
           title="Login App"
           description="Aplicação de cadastro e login utilizando localStorage, praticando manipulação de dados, validação e persistência no navegador."
           image="UserLogin"
