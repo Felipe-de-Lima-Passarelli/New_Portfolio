@@ -63,6 +63,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/Dots_Page"
         />
         <Projeto
+          title="LoginForm App"
+          description="Aplicação de login com autenticação simulada, utilizando React, TypeScript e TailwindCSS para praticar controle de formulários, validação, tratamento de erros, loading e manipulação de estados."
+          image="LoginForm"
+          linkView="https://login-form-sigma-wine.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/LoginForm"
+        />
+        <Projeto
           title="Login App"
           description="Aplicação de cadastro e login utilizando localStorage, praticando manipulação de dados, validação e persistência no navegador."
           image="UserLogin"
