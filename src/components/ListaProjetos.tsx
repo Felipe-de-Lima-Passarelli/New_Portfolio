@@ -56,6 +56,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/weatherApp"
         />
         <Projeto
+          title="Form Progress"
+          description="Aplicação com formulário e barra de progresso dinâmica, utilizando React, TypeScript e TailwindCSS para praticar controle de estados, validação de campos, eventos de formulário e feedback visual para o usuário."
+          image="FormProgress"
+          linkView="https://progress-form-theta.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/ProgressForm"
+        />
+        <Projeto
           title="Dots App"
           description="Aplicação interativa com criação de pontos na tela, utilizando React, TypeScript e TailwindCSS para praticar controle de estados, eventos de clique, renderização dinâmica e lógica de desfazer/refazer."
           image="Dots"
