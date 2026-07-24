@@ -63,6 +63,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/ProgressForm"
         />
         <Projeto
+          title="Jogo da Velha"
+          description="Aplicação desenvolvida com React, Next.js e TypeScript para praticar gerenciamento de estado, lógica de jogo, renderização condicional e verificação automática de vitória em um tabuleiro interativo."
+          image="JogoVelha"
+          linkView="https://jogo-da-velha-blush-eight.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/Jogo_da_Velha"
+        />
+        <Projeto
           title="Dots App"
           description="Aplicação interativa com criação de pontos na tela, utilizando React, TypeScript e TailwindCSS para praticar controle de estados, eventos de clique, renderização dinâmica e lógica de desfazer/refazer."
           image="Dots"
