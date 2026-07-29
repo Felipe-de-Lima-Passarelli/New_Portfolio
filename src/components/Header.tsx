@@ -5,10 +5,10 @@ const Header = () => {
         Felipe de Lima Passarelli
       </h1>
       <p className="text-base sm:text-lg mt-4 max-w-3xl mx-auto text-[#E0F2FE] leading-relaxed">
-        Desenvolvedor Front-End em evolução, com foco em React, Next.js,
-        TypeScript e TailwindCSS. Construo projetos próprios para praticar
-        componentização, consumo de APIs, responsividade, acessibilidade e boas
-        práticas de código.
+        Desenvolvedor Front-End em formação, com foco em React, Next.js,
+        TypeScript e Tailwind CSS. Desenvolvo aplicações modernas, responsivas e
+        acessíveis, aplicando boas práticas de desenvolvimento e expandindo meus
+        conhecimentos em tecnologias Full Stack.
       </p>
     </header>
   );
