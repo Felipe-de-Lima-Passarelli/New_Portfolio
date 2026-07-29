@@ -5,27 +5,39 @@ const SobreMim = () => {
   return (
     <section className="bg-slate-800 p-7 rounded-xl shadow-[0_4px_12px_rgba(0,0,0,0.4)] mb-8 transition-transform duration-300 ease-in-out">
       <h2 className="text-[#38BDF8] mb-4 text-3xl font-bold">Sobre Mim</h2>
+
       <div className="flex items-start gap-5 flex-wrap">
         <div className="flex-1">
           <p className="text-base mb-4 text-[#CBD5E1]">
-            Sou desenvolvedor Front-End em evolução, com foco na construção de
-            interfaces modernas, acessíveis, responsivas e bem estruturadas.
-            Busco transformar ideias em experiências digitais organizadas,
-            funcionais e agradáveis para o usuário.
+            Sou Desenvolvedor Front-End em formação, apaixonado por tecnologia e
+            pela criação de interfaces modernas, responsivas e acessíveis. Meu
+            objetivo é desenvolver aplicações que aliem boa experiência do
+            usuário, organização de código e desempenho.
           </p>
+
           <p className="text-base mb-4 text-[#CBD5E1]">
-            Atualmente estudo e desenvolvo projetos utilizando React, Next.js,
-            TypeScript e TailwindCSS, aplicando conceitos como componentização,
-            consumo de APIs, organização de código, responsividade e boas
-            práticas de desenvolvimento.
+            Atualmente desenvolvo projetos utilizando <strong>React</strong>,
+            <strong> Next.js</strong>, <strong>TypeScript</strong> e
+            <strong> Tailwind CSS</strong>, aplicando conceitos como
+            componentização, consumo de APIs, gerenciamento de estado,
+            responsividade e boas práticas de desenvolvimento.
           </p>
+
           <p className="text-base mb-4 text-[#CBD5E1]">
-            Também tenho conhecimentos em automação e análise de dados com
-            Python, o que contribuiu para fortalecer minha lógica de
-            programação, resolução de problemas e visão analítica durante o
-            desenvolvimento de aplicações.
+            Também venho expandindo meus conhecimentos em desenvolvimento Full
+            Stack com <strong>Node.js</strong>, <strong>Express</strong>,
+            <strong> NestJS</strong>, <strong>Prisma ORM</strong> e
+            <strong> PostgreSQL</strong>, buscando compreender todo o ciclo de
+            construção de aplicações web.
+          </p>
+
+          <p className="text-base text-[#CBD5E1]">
+            Estou em busca da minha primeira oportunidade como Desenvolvedor
+            Front-End, onde possa continuar evoluindo, contribuir com projetos
+            reais e crescer profissionalmente em equipe.
           </p>
         </div>
+
         <div className="shrink-0">
           <Image
             src="/img/Foto.png"
