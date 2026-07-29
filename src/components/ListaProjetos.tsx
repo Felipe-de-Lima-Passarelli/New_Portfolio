@@ -84,6 +84,13 @@ const ListaProjetos = () => {
           linkCode="https://github.com/Felipe-de-Lima-Passarelli/LoginForm"
         />
         <Projeto
+          title="PokéAPI"
+          description="Aplicação que consome a PokéAPI utilizando React, Next.js e TypeScript para praticar requisições assíncronas, paginação, tipagem de dados, gerenciamento de estado e renderização dinâmica de informações dos Pokémon."
+          image="PokeAPI"
+          linkView="https://poke-api-silk-sigma.vercel.app"
+          linkCode="https://github.com/Felipe-de-Lima-Passarelli/PokeAPI"
+        />
+        <Projeto
           title="Login App"
           description="Aplicação de cadastro e login utilizando localStorage, praticando manipulação de dados, validação e persistência no navegador."
           image="UserLogin"
